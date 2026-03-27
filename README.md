@@ -1,7 +1,7 @@
 
   # School Data Management System
 
-  This is a code bundle for School Data Management System. The original project is available at https://www.figma.com/design/rlZfpH12e8fFeuYJapUjwZ/School-Data-Management-System.
+  This is a code bundle for School Data Management System. The original project is available at 
 
   ## Running the code
 
