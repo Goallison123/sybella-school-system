@@ -1,2 +1,11 @@
-# sybella-school-system
-The Saas school system I am thinking about. 
+
+  # School Data Management System
+
+  This is a code bundle for School Data Management System. The original project is available at https://www.figma.com/design/rlZfpH12e8fFeuYJapUjwZ/School-Data-Management-System.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
